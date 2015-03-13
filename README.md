@@ -1,5 +1,3 @@
 # Yosog
 
-Teke ri ri.
-Hey! Yo!
-Release!
+Gitの使い方をいろいろ練習するのに使うリポジトリなんじゃないか？
